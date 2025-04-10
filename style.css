@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.marginSite{
+    margin: 0 15%;
+}
+
+header{
+    padding-top: 1%;
+}
+
+.alinharDivs{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.gapDiv{
+    gap: 20%;
+}
+
+.gapDivGradBlog{
+    gap: 15%;
+}
