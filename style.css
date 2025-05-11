@@ -13,7 +13,6 @@
 
     --cor-borda: 90, 19, 180;
 }
-
 *{
     margin: 0;
     padding: 0;
@@ -165,7 +164,6 @@ h2{
         font-size: 2.5rem;
     }
 }
-/*Fim Apresentação*/
 
 /*Início Escolha Curso*/
 .backgroundEscolhaCurso{
@@ -262,7 +260,6 @@ h2{
         height: auto;
     }
 }
-/*Fim Escolha Curso*/
 
 /*Inicio Botão Inscrever-se*/
 .botaoInscreverSe{
@@ -297,7 +294,6 @@ h2{
         font-size: 1.5rem;
     }
 }
-/*Fim Botão Inscrever-se*/
 
 /*Início Cursos Gratuitos*/
 .botaoCursosGratuitos{
@@ -315,7 +311,6 @@ h2{
         height: auto;
     }
 }
-/*Fim Cursos Gratuítos*/
 
 /*Início Blog*/
 .containerBlog{
@@ -366,7 +361,6 @@ h2{
         width: 100%;
     }
 }
-/*Fim Blog*/
 
 /*Início Rodapé*/
 footer{
@@ -405,4 +399,3 @@ footer{
         margin: 10%;
     }
 }
-/*Fim Rodapé*/
